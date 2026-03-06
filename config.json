@@ -1,0 +1,52 @@
+{
+  "tr": {
+    "share": {
+      "inviteMessage": "GlobalSMS uygulamasını indirmek ister misin?"
+    }
+  },
+  "en": {
+    "share": {
+      "inviteMessage": "Would you like to download the GlobalSMS app?"
+    }
+  },
+  "de": {
+    "share": {
+      "inviteMessage": "Möchtest du die GlobalSMS‑App herunterladen?"
+    }
+  },
+  "ru": {
+    "share": {
+      "inviteMessage": "Хочешь установить приложение GlobalSMS?"
+    }
+  },
+  "es": {
+    "share": {
+      "inviteMessage": "¿Te gustaría descargar la aplicación GlobalSMS?"
+    }
+  },
+  "hi": {
+    "share": {
+      "inviteMessage": "क्या आप GlobalSMS ऐप डाउनलोड करना चाहेंगे?"
+    }
+  },
+  "ar": {
+    "share": {
+      "inviteMessage": "هل تريد تنزيل تطبيق GlobalSMS؟"
+    }
+  },
+  "pt": {
+    "share": {
+      "inviteMessage": "Você gostaria de baixar o app GlobalSMS?"
+    }
+  },
+  "fr": {
+    "share": {
+      "inviteMessage": "Souhaites‑tu télécharger l’application GlobalSMS ?"
+    }
+  },
+  "zh": {
+    "share": {
+      "inviteMessage": "你想下载 GlobalSMS 应用吗？"
+    }
+  }
+}
