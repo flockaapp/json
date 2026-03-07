@@ -1,55 +1,55 @@
 {
-  "review":"https://apps.apple.com/tr/app/freephone-io-temporary-number/id6505093737",
+  "review":"",
   "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
   "tr": {
     "share": {
-      "inviteMessage": "GlobalSMS uygulamasını indirmek ister misin?"
+      "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
     }
   },
   "en": {
     "share": {
-      "inviteMessage": "Would you like to download the GlobalSMS app?"
+      "inviteMessage": "Download the Receive SMS app or visit https://www.receivesmsfree.online/ to receive free SMS instantly!"
     }
   },
   "de": {
     "share": {
-      "inviteMessage": "Möchtest du die GlobalSMS‑App herunterladen?"
+      "inviteMessage": "Lade die Receive SMS-App herunter oder besuche https://www.receivesmsfree.online/, um sofort kostenlose SMS zu erhalten!"
     }
   },
   "ru": {
     "share": {
-      "inviteMessage": "Хочешь установить приложение GlobalSMS?"
+      "inviteMessage": "Скачай приложение Receive SMS или перейди на https://www.receivesmsfree.online/, чтобы мгновенно получать бесплатные SMS!"
     }
   },
   "es": {
     "share": {
-      "inviteMessage": "¿Te gustaría descargar la aplicación GlobalSMS?"
+      "inviteMessage": "¡Descarga la aplicación Receive SMS o visita https://www.receivesmsfree.online/ para recibir SMS gratuitos al instante!"
     }
   },
   "hi": {
     "share": {
-      "inviteMessage": "क्या आप GlobalSMS ऐप डाउनलोड करना चाहेंगे?"
+      "inviteMessage": "Receive SMS ऐप डाउनलोड करें या https://www.receivesmsfree.online/ पर जाएँ और तुरंत मुफ्त SMS प्राप्त करें!"
     }
   },
   "ar": {
     "share": {
-      "inviteMessage": "هل تريد تنزيل تطبيق GlobalSMS؟"
+      "inviteMessage": "قم بتحميل تطبيق Receive SMS أو زر https://www.receivesmsfree.online/ لتلقي رسائل SMS مجانية على الفور!"
     }
   },
   "pt": {
     "share": {
-      "inviteMessage": "Você gostaria de baixar o app GlobalSMS?"
+      "inviteMessage": "Baixe o app Receive SMS ou visite https://www.receivesmsfree.online/ para receber SMS gratuitos instantaneamente!"
     }
   },
   "fr": {
     "share": {
-      "inviteMessage": "Souhaites‑tu télécharger l’application GlobalSMS ?"
+      "inviteMessage": "Télécharge l’application Receive SMS ou visite https://www.receivesmsfree.online/ pour recevoir des SMS gratuits instantanément !"
     }
   },
   "zh": {
     "share": {
-      "inviteMessage": "你想下载 GlobalSMS 应用吗？"
+      "inviteMessage": "下载 Receive SMS 应用或访问 https://www.receivesmsfree.online/，即可立即接收免费短信！"
     }
   }
 }
