@@ -1,0 +1,55 @@
+{
+  "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
+  "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
+  "terms_url":"https://www.receivesmsfree.online/legal/terms",
+  "tr": {
+    "share": {
+      "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
+    }
+  },
+  "en": {
+    "share": {
+      "inviteMessage": "Download the Receive SMS app or visit https://www.receivesmsfree.online/ to receive free SMS instantly!"
+    }
+  },
+  "de": {
+    "share": {
+      "inviteMessage": "Lade die Receive SMS-App herunter oder besuche https://www.receivesmsfree.online/, um sofort kostenlose SMS zu erhalten!"
+    }
+  },
+  "ru": {
+    "share": {
+      "inviteMessage": "Скачай приложение Receive SMS или перейди на https://www.receivesmsfree.online/, чтобы мгновенно получать бесплатные SMS!"
+    }
+  },
+  "es": {
+    "share": {
+      "inviteMessage": "¡Descarga la aplicación Receive SMS o visita https://www.receivesmsfree.online/ para recibir SMS gratuitos al instante!"
+    }
+  },
+  "hi": {
+    "share": {
+      "inviteMessage": "Receive SMS ऐप डाउनलोड करें या https://www.receivesmsfree.online/ पर जाएँ और तुरंत मुफ्त SMS प्राप्त करें!"
+    }
+  },
+  "ar": {
+    "share": {
+      "inviteMessage": "قم بتحميل تطبيق Receive SMS أو زر https://www.receivesmsfree.online/ لتلقي رسائل SMS مجانية على الفور!"
+    }
+  },
+  "pt": {
+    "share": {
+      "inviteMessage": "Baixe o app Receive SMS ou visite https://www.receivesmsfree.online/ para receber SMS gratuitos instantaneamente!"
+    }
+  },
+  "fr": {
+    "share": {
+      "inviteMessage": "Télécharge l’application Receive SMS ou visite https://www.receivesmsfree.online/ pour recevoir des SMS gratuits instantanément !"
+    }
+  },
+  "zh": {
+    "share": {
+      "inviteMessage": "下载 Receive SMS 应用或访问 https://www.receivesmsfree.online/，即可立即接收免费短信！"
+    }
+  }
+}
