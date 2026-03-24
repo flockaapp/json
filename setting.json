@@ -54,5 +54,25 @@
     "share": {
       "inviteMessage": "下载 Receive SMS 应用或访问 https://www.receivesmsfree.online/，即可立即接收免费短信！"
     }
+  },
+  "it": {
+    "share": {
+      "inviteMessage": "Scarica l'app Receive SMS o visita https://www.receivesmsfree.online/ per ricevere SMS gratuiti istantaneamente!"
+    }
+  },
+  "nl": {
+    "share": {
+      "inviteMessage": "Download de Receive SMS-app of ga naar https://www.receivesmsfree.online/ om direct gratis sms te ontvangen!"
+    }
+  },
+  "ko": {
+    "share": {
+      "inviteMessage": "Receive SMS 앱을 다운로드하거나 https://www.receivesmsfree.online/ 를 방문하여 즉시 무료 SMS를 받아보세요!"
+    }
+  },
+  "ja": {
+    "share": {
+      "inviteMessage": "Receive SMSアプリをダウンロードするか、https://www.receivesmsfree.online/ にアクセスして無料でSMSをすぐに受信しましょう！"
+    }
   }
 }
