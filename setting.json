@@ -4,6 +4,7 @@
   "google_play":"https://play.google.com/store/apps/details?id=com.haruncinbirt.receivesms",
   "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
+  "modal_active:"true",
   "tr": {
     "share": {
       "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
