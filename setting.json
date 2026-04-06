@@ -7,7 +7,8 @@
   "credits": {
     "free_credit_interval_minutes": 360,
     "max_free_credits": 3,
-    "initial_credits": 3
+    "initial_credits": 3,
+    "rewarded_ad_enabled": false
   },
   "modal_active":"true",
   "tr": {
