@@ -10,7 +10,8 @@
     "initial_credits": 3,
     "rewarded_ad_enabled": true,
     "interstitial_enabled": false,
-    "max_interstitial_per_day": 8
+    "max_interstitial_per_day": 8,
+    "max_rewarded_ads_per_day": 5
   },
   "modal_active":"true",
   "tr": {
