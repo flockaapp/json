@@ -15,7 +15,7 @@
     "max_interstitial_per_day": 3,
     "max_rewarded_ads_per_day": 5
   },
-  "modal_active":"true",
+  "modal_active":"false",
   "tr": {
     "share": {
       "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
