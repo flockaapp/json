@@ -9,14 +9,14 @@
   "credits": {
     "free_credit_interval_minutes": 180,
     "max_free_credits": 3,
-    "initial_credits": 0,
+    "initial_credits": 1,
     "rewarded_ad_enabled": false,
     "interstitial_enabled": false,
     "max_interstitial_per_day": 3,
     "interstitial_min_interval_seconds": 180,
     "interstitial_suppress_after_rewarded_seconds": 300,
     "max_rewarded_ads_per_day": 5,
-    "iap_credits_per_purchase": 25
+    "iap_credits_per_purchase": 10
   },
   "modal_active":"false",
   "tr": {
