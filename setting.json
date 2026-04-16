@@ -16,7 +16,7 @@
     "interstitial_min_interval_seconds": 180,
     "interstitial_suppress_after_rewarded_seconds": 300,
     "max_rewarded_ads_per_day": 5,
-    "iap_credits_per_purchase": 40
+    "iap_credits_per_purchase": 30
   },
   "modal_active":"false",
   "tr": {
