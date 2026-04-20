@@ -7,7 +7,7 @@
   "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
   "credits": {
-    "free_credit_interval_minutes": 180,
+    "free_credit_interval_minutes": 360,
     "max_free_credits": 3,
     "initial_credits": 1,
     "rewarded_ad_enabled": false,
