@@ -19,8 +19,8 @@
     "iap_credits_per_purchase": 10,
     "iap_credits_by_product": {
       "credits_10": 10,
-      "credits_60": 60,
-      "credits_140": 130
+      "credits_60": 75,
+      "credits_140": 180
     }
   },
   "modal_active":"false",
