@@ -18,9 +18,9 @@
     "max_rewarded_ads_per_day": 5,
     "iap_credits_per_purchase": 10,
     "iap_credits_by_product": {
-      "credits_10": 1,
-      "credits_60": 10,
-      "credits_140": 20
+      "credits_10": 3,
+      "credits_60": 18,
+      "credits_140": 40
     }
   },
   "modal_active":"false",
