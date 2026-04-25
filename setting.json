@@ -1,12 +1,12 @@
 {
-  "force_update": true,
+  "force_update": false,
   "minimum_version": "1.0.8",
   "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
   "app_store":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
   "google_play":"https://play.google.com/store/apps/details?id=com.haruncinbirt.receivesms",
   "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
-  "api_url":"http://localhost:3000/api/",
+  "api_url":"https://sms-endpoint-six.vercel.app/api/",
   "credits": {
     "free_credit_interval_minutes": 360,
     "max_free_credits": 3,
