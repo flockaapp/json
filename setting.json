@@ -8,7 +8,7 @@
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
   "api_url":"https://sms-endpoint-six.vercel.app/api/",
   "credits": {
-    "free_credit_interval_minutes": 360,
+    "free_credit_interval_minutes": 720,
     "max_free_credits": 3,
     "initial_credits": 0,
     "rewarded_ad_enabled": false,
