@@ -12,6 +12,7 @@
     "max_free_credits": 3,
     "initial_credits": 0,
     "rewarded_ad_enabled": true,
+    "rewarded_ad_credits_per_earn": 5,
     "interstitial_enabled": true,
     "max_interstitial_per_day": 3,
     "interstitial_min_interval_seconds": 180,
