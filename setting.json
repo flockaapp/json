@@ -81,7 +81,7 @@
       "is": 3
     }
   },
-  "modal_active":"false",
+  "modal_active":"true",
   "tr": {
     "share": {
       "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
