@@ -22,6 +22,14 @@
       "credits_10": 10,
       "credits_60": 30,
       "credits_140": 60
+    },
+    "country_credit_costs": {
+      "china": 2,
+      "united_states": 3,
+      "cn": 2,
+      "us": 3,
+      "turkey": 1,
+      "tr": 1
     }
   },
   "modal_active":"false",
