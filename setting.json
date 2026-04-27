@@ -11,17 +11,17 @@
     "free_credit_interval_minutes": 720,
     "max_free_credits": 3,
     "initial_credits": 0,
-    "rewarded_ad_enabled": false,
-    "interstitial_enabled": false,
+    "rewarded_ad_enabled": true,
+    "interstitial_enabled": true,
     "max_interstitial_per_day": 3,
     "interstitial_min_interval_seconds": 180,
     "interstitial_suppress_after_rewarded_seconds": 300,
     "max_rewarded_ads_per_day": 5,
     "iap_credits_per_purchase": 10,
     "iap_credits_by_product": {
-      "credits_10": 3,
-      "credits_60": 20,
-      "credits_140": 50
+      "credits_10": 10,
+      "credits_60": 30,
+      "credits_140": 60
     }
   },
   "modal_active":"false",
