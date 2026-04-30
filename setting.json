@@ -21,8 +21,8 @@
     "iap_credits_per_purchase": 10,
     "iap_credits_by_product": {
       "credits_10": 30,
-      "credits_60": 120,
-      "credits_140": 350
+      "credits_60": 250,
+      "credits_140": 550
     },
     "country_credit_costs": {
       "us": 6,
