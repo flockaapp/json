@@ -25,11 +25,12 @@
       "credits_140": 350
     },
     "country_credit_costs": {
-      "us": 10,
+      "us": 6,
       "gb": 9,
       "de": 9,
       "fr": 9,
-      "ca": 9,
+      "ca": 4,
+      "pr": 3,
       "au": 9,
       "nl": 8,
       "se": 8,
