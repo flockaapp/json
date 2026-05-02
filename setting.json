@@ -82,8 +82,9 @@
       "gt": 5,
       "is": 7,
       "il": 7,
-      "ro:":5,
-      "dk":5
+      "ro:": 5,
+      "dk": 5,
+      "hr": 5
     }
   },
   "modal_active":"false",
