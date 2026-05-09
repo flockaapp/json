@@ -93,6 +93,17 @@
     }
   },
   "modal_active":"false",
+  "promo": {
+    "show_ios": true,
+    "show_android": true,
+    "ios_url": "https://apps.apple.com/app/idXXXXXX",
+    "android_url": "https://play.google.com/store/apps/details?id=XXXXXX",
+    "texts": [
+      { "lang": "tr", "text": "Yeni uygulamamızı dene!" },
+      { "lang": "en", "text": "Try our new app!" },
+      { "lang": "de", "text": "Probier unsere neue App!" }
+    ]
+  },
   "tr": {
     "share": {
       "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
