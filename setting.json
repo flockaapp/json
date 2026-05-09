@@ -100,8 +100,11 @@
     "android_url": "https://play.google.com/store/apps/details?id=XXXXXX",
     "texts": [
       { "lang": "tr", "text": "Yeni uygulamamızı dene!" },
-      { "lang": "en", "text": "Try our new app!" },
-      { "lang": "de", "text": "Probier unsere neue App!" }
+      { "lang": "en", "text": "Try our new app!" }
+    ],
+    "cta_texts": [
+      { "lang": "tr", "text": "İndir" },
+      { "lang": "en", "text": "Download" }
     ]
   },
   "tr": {
