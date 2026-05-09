@@ -94,8 +94,8 @@
   },
   "modal_active":"false",
   "promo": {
-    "show_ios": true,
-    "show_android": true,
+    "show_ios": false,
+    "show_android": false,
     "ios_url": "https://apps.apple.com/app/idXXXXXX",
     "android_url": "https://play.google.com/store/apps/details?id=XXXXXX",
     "texts": [
