@@ -9,6 +9,7 @@
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
   "api_url":"https://sms-api-tau2.vercel.app/api/",
   "native_ads_show": true,
+  "country_list_numbers_show": false,
   "credits": {
     "free_credit_interval_minutes": 720,
     "max_free_credits": 1,
