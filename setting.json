@@ -11,6 +11,7 @@
   "native_ads_show": true,
   "country_list_numbers_show": false,
   "credits": {
+    "premium_daily_credits": 40,
     "free_credit_interval_minutes": 720,
     "max_free_credits": 1,
     "initial_credits": 0,
