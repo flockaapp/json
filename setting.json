@@ -97,7 +97,7 @@
       "cz":6
     }
   },
-  "modal_active":"false",
+  "modal_active":"true",
   "promo": {
     "show_ios": false,
     "show_android": false,
