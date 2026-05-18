@@ -99,18 +99,42 @@
   },
   "modal_active":"true",
   "promo": {
-    "show_ios": false,
+    "show_ios": true,
     "show_android": false,
-    "ios_url": "https://apps.apple.com/app/idXXXXXX",
+    "ios_url": "https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
     "android_url": "https://play.google.com/store/apps/details?id=XXXXXX",
-    "texts": [
-      { "lang": "tr", "text": "Yeni uygulamamızı dene!" },
-      { "lang": "en", "text": "Try our new app!" }
-    ],
-    "cta_texts": [
-      { "lang": "tr", "text": "İndir" },
-      { "lang": "en", "text": "Download" }
-    ]
+   "texts": [
+  { "lang": "tr", "text": "Sadece size özel numaralarla güvenli doğrulama!" },
+  { "lang": "en", "text": "Private numbers reserved just for you!" },
+  { "lang": "de", "text": "Private Nummern nur für Sie reserviert!" },
+  { "lang": "fr", "text": "Des numéros privés réservés uniquement pour vous !" },
+  { "lang": "hi", "text": "केवल आपके लिए आरक्षित निजी नंबर!" },
+  { "lang": "ar", "text": "أرقام خاصة مخصصة لك فقط!" },
+  { "lang": "ru", "text": "Личные номера, зарезервированные только для вас!" },
+  { "lang": "zh", "text": "专属于您的私人号码！" },
+  { "lang": "pt", "text": "Números privados reservados só para você!" },
+  { "lang": "es", "text": "¡Números privados reservados solo para ti!" },
+  { "lang": "ja", "text": "あなただけの専用プライベート番号！" },
+  { "lang": "it", "text": "Numeri privati riservati solo per te!" },
+  { "lang": "nl", "text": "Privénummers exclusief voor jou gereserveerd!" },
+  { "lang": "ko", "text": "오직 당신만을 위한 전용 번호!" }
+],
+"cta_texts": [
+  { "lang": "tr", "text": "Hemen Al" },
+  { "lang": "en", "text": "Get Now" },
+  { "lang": "de", "text": "Jetzt holen" },
+  { "lang": "fr", "text": "Obtenir" },
+  { "lang": "hi", "text": "अभी लें" },
+  { "lang": "ar", "text": "احصل الآن" },
+  { "lang": "ru", "text": "Получить" },
+  { "lang": "zh", "text": "立即获取" },
+  { "lang": "pt", "text": "Obter agora" },
+  { "lang": "es", "text": "Obtener ahora" },
+  { "lang": "ja", "text": "今すぐ取得" },
+  { "lang": "it", "text": "Ottieni ora" },
+  { "lang": "nl", "text": "Nu krijgen" },
+  { "lang": "ko", "text": "지금 받기" }
+]
   },
   "tr": {
     "share": {
