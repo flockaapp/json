@@ -8,7 +8,7 @@
   "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
   "api_url":"https://sms-endpoint-six.vercel.app/api/",
-  "native_ads_show": true,
+  "native_ads_show": false,
   "country_list_numbers_show": false,
   "credits": {
     "premium_daily_credits": 40,
@@ -17,7 +17,7 @@
     "initial_credits": 0,
     "rewarded_ad_enabled": true,
     "rewarded_ad_credits_per_earn": 1,
-    "interstitial_enabled": true,
+    "interstitial_enabled": false,
     "max_interstitial_per_day": 3,
     "interstitial_min_interval_seconds": 180,
     "interstitial_suppress_after_rewarded_seconds": 3,
