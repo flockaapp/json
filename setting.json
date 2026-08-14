@@ -15,7 +15,7 @@
     "free_credit_interval_minutes": 720,
     "max_free_credits": 1,
     "initial_credits": 0,
-    "rewarded_ad_enabled": true,
+    "rewarded_ad_enabled": false,
     "rewarded_ad_credits_per_earn": 1,
     "interstitial_enabled": false,
     "max_interstitial_per_day": 3,
@@ -24,7 +24,7 @@
     "max_rewarded_ads_per_day": 10,
     "iap_credits_per_purchase": 10,
     "iap_credits_by_product": {
-      "credits_10": 1,
+      "credits_10": 3,
       "credits_60": 30,
       "credits_140": 100
     },
