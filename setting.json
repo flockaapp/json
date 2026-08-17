@@ -8,7 +8,7 @@
   "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
   "terms_url":"https://www.receivesmsfree.online/legal/terms",
   "api_url":"https://sms-railway-api-production.up.railway.app/api/",
-  "native_ads_show": false,
+  "native_ads_show": true,
   "country_list_numbers_show": false,
   "credits": {
     "premium_daily_credits": 40,
