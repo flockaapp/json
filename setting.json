@@ -320,7 +320,7 @@
       "product_id": "credits_140",
       "offer_credits": 150,
       "countdown_hours": 2,
-      "max_shows_per_day": 1,
+      "max_shows_per_day": 6,
       "show_delay_ms": 3000
     }
   }
