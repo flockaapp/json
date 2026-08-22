@@ -97,7 +97,7 @@
         "ro": 7
       }
     },
-    "modal_active":"true",
+    "modal_active":"false",
     "promo": {
       "show_ios": true,
       "show_android": true,
