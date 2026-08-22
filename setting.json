@@ -314,5 +314,14 @@
           "ko": "Play Store에서 열기"
         }
       }
+    },
+    "offer_modal": {
+      "active": false,
+      "product_id": "credits_140",
+      "offer_credits": 150,
+      "countdown_seconds": 3600,
+      "max_shows_per_day": 1,
+      "show_delay_ms": 3000,
+      "ends_at": "2026-08-25T23:59:59Z"
     }
   }
