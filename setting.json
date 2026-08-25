@@ -316,9 +316,9 @@
       }
     },
     "offer_modal": {
-      "active": false,
-      "product_id": "credits_60",
-      "offer_credits": 50,
+      "active": true,
+      "product_id": "credits_140",
+      "offer_credits": 120,
       "countdown_hours": 2,
       "max_shows_per_day": 5,
       "show_delay_ms": 3000
