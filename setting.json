@@ -316,7 +316,7 @@
       }
     },
     "offer_modal": {
-      "active": true,
+      "active": false,
       "product_id": "credits_60",
       "offer_credits": 50,
       "countdown_hours": 2,
