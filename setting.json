@@ -13,7 +13,7 @@
     "credits": {
       "premium_daily_credits": 40,
       "free_credit_interval_minutes": 720,
-      "max_free_credits": 1,
+      "max_free_credits": 0,
       "initial_credits": 0,
       "rewarded_ad_enabled": false,
       "rewarded_ad_credits_per_earn": 1,
