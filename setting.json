@@ -26,7 +26,7 @@
       "iap_credits_by_product": {
         "credits_10": 1,
         "credits_60": 20,
-        "credits_140": 40
+        "credits_140": 50
       },
       "country_credit_costs": {
   "us": 5,
@@ -318,7 +318,7 @@
     "offer_modal": {
       "active": true,
       "product_id": "credits_140",
-      "offer_credits": 120,
+      "offer_credits": 70,
       "countdown_hours": 2,
       "max_shows_per_day": 5,
       "show_delay_ms": 3000
