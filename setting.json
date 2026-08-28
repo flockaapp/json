@@ -360,7 +360,7 @@
     },
     "remote_modal": {
       "active": true,
-      "max_shows_per_day": 3,
+      "max_shows_per_day": 2,
       "show_delay_ms": 2000,
       "ios": {
         "active": true,
