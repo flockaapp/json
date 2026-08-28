@@ -4,7 +4,7 @@
     "show_number": false,
     "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
     "app_store":"https://apps.apple.com/tr/app/qsms-temp-number-receive-sms/id6769685656",
-    "google_play":"https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
+    "google_play":"https://play.google.com/store/apps/details?id=com.haruncinbirt.receivesms&hl=tr",
     "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
     "terms_url":"https://www.receivesmsfree.online/legal/terms",
     "api_url":"https://sms-railway-api-production-f64b.up.railway.app/api/",
@@ -249,7 +249,7 @@
   "tc": 6
 }
     },
-    "modal_active":false,
+    "modal_active":true,
     "promo": {
       "show_ios": true,
       "show_android": true,
