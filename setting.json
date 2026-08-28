@@ -1,5 +1,5 @@
 {
-    "force_update": false,
+    "force_update": true,
     "minimum_version": "1.0.17",
     "show_number": false,
     "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
@@ -15,8 +15,8 @@
       "free_credit_interval_minutes": 720,
       "max_free_credits": 0,
       "initial_credits": 0,
-      "iap_enabled": true,
-      "purchase_disclaimer_show": false,
+      "iap_enabled": false,
+      "purchase_disclaimer_show": true,
       "rewarded_ad_enabled": true,
       "rewarded_ad_credits_per_earn": 1,
       "interstitial_enabled": false,
