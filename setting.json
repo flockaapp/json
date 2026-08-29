@@ -15,7 +15,7 @@
       "free_credit_interval_minutes": 720,
       "max_free_credits": 0,
       "initial_credits": 0,
-      "iap_enabled": true,
+      "iap_enabled": false,
       "purchase_disclaimer_show": true,
       "rewarded_ad_enabled": true,
       "rewarded_ad_credits_per_earn": 1,
