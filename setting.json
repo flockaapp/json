@@ -12,7 +12,7 @@
     "country_list_numbers_show": false,
     "credits": {
       "premium_daily_credits": 40,
-      "free_credit_interval_minutes": 720,
+      "free_credit_interval_minutes": 1440,
       "max_free_credits": 0,
       "initial_credits": 0,
       "iap_enabled": true,
