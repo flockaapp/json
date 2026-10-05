@@ -30,7 +30,6 @@
     "credits_60": 50,
     "credits_140": 200
   },
-     {
   "country_credit_costs": {
     "us": 20,
     "gb": 19,
@@ -249,8 +248,6 @@
     "sb": 11,
     "tc": 11
   }
-}
-
     },
     "modal_active":false,
     "promo": {
