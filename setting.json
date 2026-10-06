@@ -27,7 +27,7 @@
       "iap_credits_per_purchase": 10,
       "iap_credits_by_product": {
   "credits_10": 1,
-  "credits_60": 4,
+  "credits_60": 5,
   "credits_140": 10
 },
  "country_credit_costs": {
@@ -120,7 +120,7 @@
     "jm": 3,
     "jp": 5,
     "jo": 3,
-    "kz": 3,
+    "kz": 1,
     "ke": 5,
     "kw": 4,
     "kg": 2,
@@ -238,7 +238,7 @@
     "gu": 2,
     "ki": 2,
     "xk": 3,
-    "mt": 3,
+    "mt": 1,
     "mh": 2,
     "mq": 2,
     "nr": 2,
