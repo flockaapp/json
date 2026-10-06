@@ -1,5 +1,5 @@
 {
-    "force_update": true,
+    "force_update": false,
     "minimum_version": "1.0.30",
     "show_number": false,
     "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
@@ -26,9 +26,9 @@
       "max_rewarded_ads_per_day": 10,
       "iap_credits_per_purchase": 10,
       "iap_credits_by_product": {
-  "credits_10": 1,
-  "credits_60": 5,
-  "credits_140": 10
+  "credits_10": 5,
+  "credits_60": 25,
+  "credits_140": 45
 },
  "country_credit_costs": {
     "us": 5,
