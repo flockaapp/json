@@ -71,7 +71,7 @@
     "tw": 1
   }
     },
-    "modal_active":false,
+    "modal_active":true,
     "promo": {
       "show_ios": true,
       "show_android": true,
