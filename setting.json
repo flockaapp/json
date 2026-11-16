@@ -1,6 +1,6 @@
 {
-    "force_update": false,
-    "minimum_version": "1.0.30",
+    "force_update": true,
+    "minimum_version": "1.0.88",
     "show_number": false,
     "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
     "app_store":"https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
@@ -290,7 +290,7 @@
       }
     },
     "offer_modal": {
-      "active": true,
+      "active": false,
       "product_id": "credits_140",
       "offer_credits": 50,
       "countdown_hours": 2,
