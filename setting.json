@@ -1,385 +1,300 @@
-
 {
-  "force_update": false,
-  "minimum_version": "1.0.30",
-  "show_number": false,
-  "review": "https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
-  "app_store": "https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
-  "google_play": "https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
-  "privacy_url": "https://www.receivesmsfree.online/legal/privacy",
-  "terms_url": "https://www.receivesmsfree.online/legal/terms",
-  "api_url": "https://sms-railway-api-production-f64b.up.railway.app/api/",
-  "native_ads_show": false,
-  "country_list_numbers_show": false,
-  "credits": {
-    "premium_daily_credits": 40,
-    "free_credit_interval_minutes": 1440,
-    "max_free_credits": 0,
-    "initial_credits": 0,
-    "iap_enabled": true,
-    "purchase_disclaimer_show": true,
-    "rewarded_ad_enabled": true,
-    "rewarded_ad_credits_per_earn": 1,
-    "interstitial_enabled": false,
-    "max_interstitial_per_day": 1,
-    "interstitial_min_interval_seconds": 180,
-    "interstitial_suppress_after_rewarded_seconds": 3,
-    "max_rewarded_ads_per_day": 10,
-    "iap_credits_per_purchase": 10,
-    "iap_credits_by_product": {
-      "credits_10": 10,
-      "credits_60": 60,
-      "credits_140": 140
-    },
-    "country_credit_costs": {
-      "gb": 25,
-      "us": 25,
-      "de": 20,
-      "fr": 20,
-      "cn": 20,
-      "ca": 20,
-      "ru": 20,
-      "in": 20,
-      "mx": 20,
-      "id": 20,
-      "br": 20,
-      "jp": 20,
-      "au": 20,
-      "es": 20,
-      "it": 20,
-      "nl": 20,
-      "pl": 20,
-      "pt": 20,
-      "th": 20,
-      "ph": 20,
-      "kr": 20,
-      "hk": 15,
-      "sg": 15,
-      "ie": 15,
-      "be": 15,
-      "ma": 15,
-      "se": 15,
-      "fi": 15,
-      "ua": 15,
-      "mu": 10,
-      "hr": 10,
-      "ng": 10,
-      "ro": 10,
-      "cz": 10,
-      "il": 10,
-      "kz": 10,
-      "at": 10,
-      "tw": 10
-    }
-  },
-  "modal_active": false,
-  "promo": {
-    "show_ios": true,
-    "show_android": true,
-    "ios_url": "https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
-    "android_url": "https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
-    "texts": [
-      {
-        "lang": "tr",
-        "text": "Sadece size özel numaralarla güvenli doğrulama!"
-      },
-      {
-        "lang": "en",
-        "text": "Private numbers reserved just for you!"
-      },
-      {
-        "lang": "de",
-        "text": "Private Nummern nur für Sie reserviert!"
-      },
-      {
-        "lang": "fr",
-        "text": "Des numéros privés réservés uniquement pour vous !"
-      },
-      {
-        "lang": "hi",
-        "text": "केवल आपके लिए आरक्षित निजी नंबर!"
-      },
-      {
-        "lang": "ar",
-        "text": "أرقام خاصة مخصصة لك فقط!"
-      },
-      {
-        "lang": "ru",
-        "text": "Личные номера, зарезервированные только для вас!"
-      },
-      {
-        "lang": "zh",
-        "text": "专属于您的私人号码！"
-      },
-      {
-        "lang": "pt",
-        "text": "Números privados reservados só para você!"
-      },
-      {
-        "lang": "es",
-        "text": "¡Números privados reservados solo para ti!"
-      },
-      {
-        "lang": "ja",
-        "text": "あなただけの専用プライベート番号！"
-      },
-      {
-        "lang": "it",
-        "text": "Numeri privati riservati solo per te!"
-      },
-      {
-        "lang": "nl",
-        "text": "Privénummers exclusief voor jou gereserveerd!"
-      },
-      {
-        "lang": "ko",
-        "text": "오직 당신만을 위한 전용 번호!"
-      }
-    ],
-    "cta_texts": [
-      {
-        "lang": "tr",
-        "text": "Hemen Al"
-      },
-      {
-        "lang": "en",
-        "text": "Get Now"
-      },
-      {
-        "lang": "de",
-        "text": "Jetzt holen"
-      },
-      {
-        "lang": "fr",
-        "text": "Obtenir"
-      },
-      {
-        "lang": "hi",
-        "text": "अभी लें"
-      },
-      {
-        "lang": "ar",
-        "text": "احصل الآن"
-      },
-      {
-        "lang": "ru",
-        "text": "Получить"
-      },
-      {
-        "lang": "zh",
-        "text": "立即获取"
-      },
-      {
-        "lang": "pt",
-        "text": "Obter agora"
-      },
-      {
-        "lang": "es",
-        "text": "Obtener ahora"
-      },
-      {
-        "lang": "ja",
-        "text": "今すぐ取得"
-      },
-      {
-        "lang": "it",
-        "text": "Ottieni ora"
-      },
-      {
-        "lang": "nl",
-        "text": "Nu krijgen"
-      },
-      {
-        "lang": "ko",
-        "text": "지금 받기"
-      }
-    ]
-  },
-  "tr": {
-    "share": {
-      "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
-    }
-  },
-  "en": {
-    "share": {
-      "inviteMessage": "Download the Receive SMS app or visit https://www.receivesmsfree.online/ to receive free SMS instantly!"
-    }
-  },
-  "de": {
-    "share": {
-      "inviteMessage": "Lade die Receive SMS-App herunter oder besuche https://www.receivesmsfree.online/, um sofort kostenlose SMS zu erhalten!"
-    }
-  },
-  "ru": {
-    "share": {
-      "inviteMessage": "Скачай приложение Receive SMS или перейди на https://www.receivesmsfree.online/, чтобы мгновенно получать бесплатные SMS!"
-    }
-  },
-  "es": {
-    "share": {
-      "inviteMessage": "¡Descarga la aplicación Receive SMS o visita https://www.receivesmsfree.online/ para recibir SMS gratuitos al instante!"
-    }
-  },
-  "hi": {
-    "share": {
-      "inviteMessage": "Receive SMS ऐप डाउनलोड करें या https://www.receivesmsfree.online/ पर जाएँ और तुरंत मुफ्त SMS प्राप्त करें!"
-    }
-  },
-  "ar": {
-    "share": {
-      "inviteMessage": "قم بتحميل تطبيق Receive SMS أو زر https://www.receivesmsfree.online/ لتلقي رسائل SMS مجانية على الفور!"
-    }
-  },
-  "pt": {
-    "share": {
-      "inviteMessage": "Baixe o app Receive SMS ou visite https://www.receivesmsfree.online/ para receber SMS gratuitos instantaneamente!"
-    }
-  },
-  "fr": {
-    "share": {
-      "inviteMessage": "Télécharge l’application Receive SMS ou visite https://www.receivesmsfree.online/ pour recevoir des SMS gratuits instantanément !"
-    }
-  },
-  "zh": {
-    "share": {
-      "inviteMessage": "下载 Receive SMS 应用或访问 https://www.receivesmsfree.online/，即可立即接收免费短信！"
-    }
-  },
-  "it": {
-    "share": {
-      "inviteMessage": "Scarica l'app Receive SMS o visita https://www.receivesmsfree.online/ per ricevere SMS gratuiti istantaneamente!"
-    }
-  },
-  "nl": {
-    "share": {
-      "inviteMessage": "Download de Receive SMS-app of ga naar https://www.receivesmsfree.online/ om direct gratis sms te ontvangen!"
-    }
-  },
-  "ko": {
-    "share": {
-      "inviteMessage": "Receive SMS 앱을 다운로드하거나 https://www.receivesmsfree.online/ 를 방문하여 즉시 무료 SMS를 받아보세요!"
-    }
-  },
-  "ja": {
-    "share": {
-      "inviteMessage": "Receive SMSアプリをダウンロードするか、https://www.receivesmsfree.online/ にアクセスして無料でSMSをすぐに受信しましょう！"
-    }
-  },
-  "remote_modal": {
-    "active": true,
-    "max_shows_per_day": 2,
-    "show_delay_ms": 2000,
-    "ios": {
-      "active": true,
-      "link": "https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
-      "title": {
-        "tr": "Yeni uygulamayı dene",
-        "en": "Try our new app",
-        "de": "Probiere unsere neue App",
-        "ru": "Попробуйте новое приложение",
-        "zh": "试试我们的新应用",
-        "es": "Prueba nuestra nueva app",
-        "hi": "हमारा नया ऐप आज़माएं",
-        "ar": "جرّب تطبيقنا الجديد",
-        "pt": "Experimente nosso novo app",
-        "fr": "Essayez notre nouvelle app",
-        "ja": "新しいアプリを試す",
-        "it": "Prova la nostra nuova app",
-        "nl": "Probeer onze nieuwe app",
-        "ko": "새 앱을 사용해 보세요"
-      },
-      "description": {
-        "tr": "iOS için özel teklif — hemen indir.",
-        "en": "Special offer for iOS — download now.",
-        "de": "Sonderangebot für iOS — jetzt herunterladen.",
-        "ru": "Специальное предложение для iOS — скачайте сейчас.",
-        "zh": "iOS 专属优惠 — 立即下载。",
-        "es": "Oferta especial para iOS — descarga ahora.",
-        "hi": "iOS के लिए विशेष ऑफ़र — अभी डाउनलोड करें।",
-        "ar": "عرض خاص لـ iOS — حمّل الآن.",
-        "pt": "Oferta especial para iOS — baixe agora.",
-        "fr": "Offre spéciale iOS — téléchargez maintenant.",
-        "ja": "iOS限定オファー — 今すぐダウンロード。",
-        "it": "Offerta speciale per iOS — scarica ora.",
-        "nl": "Speciale aanbieding voor iOS — download nu.",
-        "ko": "iOS 전용 혜택 — 지금 다운로드하세요."
-      },
-      "button_text": {
-        "tr": "App Store'da aç",
-        "en": "Open in App Store",
-        "de": "Im App Store öffnen",
-        "ru": "Открыть в App Store",
-        "zh": "在 App Store 中打开",
-        "es": "Abrir en App Store",
-        "hi": "App Store में खोलें",
-        "ar": "افتح في App Store",
-        "pt": "Abrir na App Store",
-        "fr": "Ouvrir dans l'App Store",
-        "ja": "App Storeで開く",
-        "it": "Apri su App Store",
-        "nl": "Openen in de App Store",
-        "ko": "App Store에서 열기"
-      }
-    },
-    "android": {
-      "active": true,
-      "link": "https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
-      "title": {
-        "tr": "Yeni uygulamayı dene",
-        "en": "Try our new app",
-        "de": "Probiere unsere neue App",
-        "ru": "Попробуйте новое приложение",
-        "zh": "试试我们的新应用",
-        "es": "Prueba nuestra nueva app",
-        "hi": "हमारा नया ऐप आज़माएं",
-        "ar": "جرّب تطبيقنا الجديد",
-        "pt": "Experimente nosso novo app",
-        "fr": "Essayez notre nouvelle app",
-        "ja": "新しいアプリを試す",
-        "it": "Prova la nostra nuova app",
-        "nl": "Probeer onze nieuwe app",
-        "ko": "새 앱을 사용해 보세요"
-      },
-      "description": {
-        "tr": "Android için özel teklif — hemen indir.",
-        "en": "Special offer for Android — download now.",
-        "de": "Sonderangebot für Android — jetzt herunterladen.",
-        "ru": "Специальное предложение для Android — скачайте сейчас.",
-        "zh": "Android 专属优惠 — 立即下载。",
-        "es": "Oferta especial para Android — descarga ahora.",
-        "hi": "Android के लिए विशेष ऑफ़र — अभी डाउनलोड करें।",
-        "ar": "عرض خاص لـ Android — حمّل الآن.",
-        "pt": "Oferta especial para Android — baixe agora.",
-        "fr": "Offre spéciale Android — téléchargez maintenant.",
-        "ja": "Android限定オファー — 今すぐダウンロード。",
-        "it": "Offerta speciale per Android — scarica ora.",
-        "nl": "Speciale aanbieding voor Android — download nu.",
-        "ko": "Android 전용 혜택 — 지금 다운로드하세요."
-      },
-      "button_text": {
-        "tr": "Play Store'da aç",
-        "en": "Open in Play Store",
-        "de": "Im Play Store öffnen",
-        "ru": "Открыть в Play Store",
-        "zh": "在 Play Store 中打开",
-        "es": "Abrir en Play Store",
-        "hi": "Play Store में खोलें",
-        "ar": "افتح في Play Store",
-        "pt": "Abrir na Play Store",
-        "fr": "Ouvrir dans le Play Store",
-        "ja": "Play Storeで開く",
-        "it": "Apri su Play Store",
-        "nl": "Openen in de Play Store",
-        "ko": "Play Store에서 열기"
-      }
-    }
-  },
-  "offer_modal": {
-    "active": true,
-    "product_id": "credits_140",
-    "offer_credits": 250,
-    "countdown_hours": 2,
-    "max_shows_per_day": 5,
-    "show_delay_ms": 3000
+    "force_update": false,
+    "minimum_version": "1.0.30",
+    "show_number": false,
+    "review":"https://apps.apple.com/app/virtual-numbers-receive-sms/id6760222356",
+    "app_store":"https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
+    "google_play":"https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
+    "privacy_url":"https://www.receivesmsfree.online/legal/privacy",
+    "terms_url":"https://www.receivesmsfree.online/legal/terms",
+    "api_url":"https://sms-railway-api-production-f64b.up.railway.app/api/",
+    "native_ads_show": false,
+    "country_list_numbers_show": false,
+    "credits": {
+      "premium_daily_credits": 40,
+      "free_credit_interval_minutes": 1440,
+      "max_free_credits": 0,
+      "initial_credits": 0,
+      "iap_enabled": true,
+      "purchase_disclaimer_show": true,
+      "rewarded_ad_enabled": false,
+      "rewarded_ad_credits_per_earn": 1,
+      "interstitial_enabled": false,
+      "max_interstitial_per_day": 1,
+      "interstitial_min_interval_seconds": 180,
+      "interstitial_suppress_after_rewarded_seconds": 3,
+      "max_rewarded_ads_per_day": 10,
+      "iap_credits_per_purchase": 10,
+      "iap_credits_by_product": {
+  "credits_10": 1,
+  "credits_60": 10,
+  "credits_140": 25
+},
+ "country_credit_costs": {
+    "gb": 5,
+    "us": 5,
+    "de": 4,
+    "fr": 4,
+    "cn": 4,
+    "ca": 4,
+    "ru": 4,
+    "in": 4,
+    "mx": 4,
+    "id": 4,
+    "br": 4,
+    "jp": 4,
+    "au": 4,
+    "es": 4,
+    "it": 4,
+    "nl": 4,
+    "pl": 4,
+    "pt": 4,
+    "th": 4,
+    "ph": 4,
+    "kr": 4,
+    "hk": 3,
+    "sg": 3,
+    "ie": 3,
+    "be": 3,
+    "ma": 3,
+    "se": 3,
+    "fi": 3,
+    "ua": 3,
+    "mu": 2,
+    "hr": 2,
+    "ng": 2,
+    "ro": 2,
+    "cz": 2,
+    "il": 2,
+    "kz": 1,
+    "at": 2,
+    "tw": 1
   }
-}
+    },
+    "modal_active":false,
+    "promo": {
+      "show_ios": true,
+      "show_android": true,
+      "ios_url": "https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
+      "android_url": "https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
+     "texts": [
+    { "lang": "tr", "text": "Sadece size özel numaralarla güvenli doğrulama!" },
+    { "lang": "en", "text": "Private numbers reserved just for you!" },
+    { "lang": "de", "text": "Private Nummern nur für Sie reserviert!" },
+    { "lang": "fr", "text": "Des numéros privés réservés uniquement pour vous !" },
+    { "lang": "hi", "text": "केवल आपके लिए आरक्षित निजी नंबर!" },
+    { "lang": "ar", "text": "أرقام خاصة مخصصة لك فقط!" },
+    { "lang": "ru", "text": "Личные номера, зарезервированные только для вас!" },
+    { "lang": "zh", "text": "专属于您的私人号码！" },
+    { "lang": "pt", "text": "Números privados reservados só para você!" },
+    { "lang": "es", "text": "¡Números privados reservados solo para ti!" },
+    { "lang": "ja", "text": "あなただけの専用プライベート番号！" },
+    { "lang": "it", "text": "Numeri privati riservati solo per te!" },
+    { "lang": "nl", "text": "Privénummers exclusief voor jou gereserveerd!" },
+    { "lang": "ko", "text": "오직 당신만을 위한 전용 번호!" }
+  ],
+  "cta_texts": [
+    { "lang": "tr", "text": "Hemen Al" },
+    { "lang": "en", "text": "Get Now" },
+    { "lang": "de", "text": "Jetzt holen" },
+    { "lang": "fr", "text": "Obtenir" },
+    { "lang": "hi", "text": "अभी लें" },
+    { "lang": "ar", "text": "احصل الآن" },
+    { "lang": "ru", "text": "Получить" },
+    { "lang": "zh", "text": "立即获取" },
+    { "lang": "pt", "text": "Obter agora" },
+    { "lang": "es", "text": "Obtener ahora" },
+    { "lang": "ja", "text": "今すぐ取得" },
+    { "lang": "it", "text": "Ottieni ora" },
+    { "lang": "nl", "text": "Nu krijgen" },
+    { "lang": "ko", "text": "지금 받기" }
+  ]
+    },
+    "tr": {
+      "share": {
+        "inviteMessage": "Ücretsiz SMS almak için Receive SMS uygulamasını indir veya https://www.receivesmsfree.online/ sitesini ziyaret et!"
+      }
+    },
+    "en": {
+      "share": {
+        "inviteMessage": "Download the Receive SMS app or visit https://www.receivesmsfree.online/ to receive free SMS instantly!"
+      }
+    },
+    "de": {
+      "share": {
+        "inviteMessage": "Lade die Receive SMS-App herunter oder besuche https://www.receivesmsfree.online/, um sofort kostenlose SMS zu erhalten!"
+      }
+    },
+    "ru": {
+      "share": {
+        "inviteMessage": "Скачай приложение Receive SMS или перейди на https://www.receivesmsfree.online/, чтобы мгновенно получать бесплатные SMS!"
+      }
+    },
+    "es": {
+      "share": {
+        "inviteMessage": "¡Descarga la aplicación Receive SMS o visita https://www.receivesmsfree.online/ para recibir SMS gratuitos al instante!"
+      }
+    },
+    "hi": {
+      "share": {
+        "inviteMessage": "Receive SMS ऐप डाउनलोड करें या https://www.receivesmsfree.online/ पर जाएँ और तुरंत मुफ्त SMS प्राप्त करें!"
+      }
+    },
+    "ar": {
+      "share": {
+        "inviteMessage": "قم بتحميل تطبيق Receive SMS أو زر https://www.receivesmsfree.online/ لتلقي رسائل SMS مجانية على الفور!"
+      }
+    },
+    "pt": {
+      "share": {
+        "inviteMessage": "Baixe o app Receive SMS ou visite https://www.receivesmsfree.online/ para receber SMS gratuitos instantaneamente!"
+      }
+    },
+    "fr": {
+      "share": {
+        "inviteMessage": "Télécharge l’application Receive SMS ou visite https://www.receivesmsfree.online/ pour recevoir des SMS gratuits instantanément !"
+      }
+    },
+    "zh": {
+      "share": {
+        "inviteMessage": "下载 Receive SMS 应用或访问 https://www.receivesmsfree.online/，即可立即接收免费短信！"
+      }
+    },
+    "it": {
+      "share": {
+        "inviteMessage": "Scarica l'app Receive SMS o visita https://www.receivesmsfree.online/ per ricevere SMS gratuiti istantaneamente!"
+      }
+    },
+    "nl": {
+      "share": {
+        "inviteMessage": "Download de Receive SMS-app of ga naar https://www.receivesmsfree.online/ om direct gratis sms te ontvangen!"
+      }
+    },
+    "ko": {
+      "share": {
+        "inviteMessage": "Receive SMS 앱을 다운로드하거나 https://www.receivesmsfree.online/ 를 방문하여 즉시 무료 SMS를 받아보세요!"
+      }
+    },
+    "ja": {
+      "share": {
+        "inviteMessage": "Receive SMSアプリをダウンロードするか、https://www.receivesmsfree.online/ にアクセスして無料でSMSをすぐに受信しましょう！"
+      }
+    },
+    "remote_modal": {
+      "active": true,
+      "max_shows_per_day": 2,
+      "show_delay_ms": 2000,
+      "ios": {
+        "active": true,
+        "link": "https://apps.apple.com/us/app/qsms-temp-number-receive-sms/id6769685656",
+        "title": {
+          "tr": "Yeni uygulamayı dene",
+          "en": "Try our new app",
+          "de": "Probiere unsere neue App",
+          "ru": "Попробуйте новое приложение",
+          "zh": "试试我们的新应用",
+          "es": "Prueba nuestra nueva app",
+          "hi": "हमारा नया ऐप आज़माएं",
+          "ar": "جرّب تطبيقنا الجديد",
+          "pt": "Experimente nosso novo app",
+          "fr": "Essayez notre nouvelle app",
+          "ja": "新しいアプリを試す",
+          "it": "Prova la nostra nuova app",
+          "nl": "Probeer onze nieuwe app",
+          "ko": "새 앱을 사용해 보세요"
+        },
+        "description": {
+          "tr": "iOS için özel teklif — hemen indir.",
+          "en": "Special offer for iOS — download now.",
+          "de": "Sonderangebot für iOS — jetzt herunterladen.",
+          "ru": "Специальное предложение для iOS — скачайте сейчас.",
+          "zh": "iOS 专属优惠 — 立即下载。",
+          "es": "Oferta especial para iOS — descarga ahora.",
+          "hi": "iOS के लिए विशेष ऑफ़र — अभी डाउनलोड करें।",
+          "ar": "عرض خاص لـ iOS — حمّل الآن.",
+          "pt": "Oferta especial para iOS — baixe agora.",
+          "fr": "Offre spéciale iOS — téléchargez maintenant.",
+          "ja": "iOS限定オファー — 今すぐダウンロード。",
+          "it": "Offerta speciale per iOS — scarica ora.",
+          "nl": "Speciale aanbieding voor iOS — download nu.",
+          "ko": "iOS 전용 혜택 — 지금 다운로드하세요."
+        },
+        "button_text": {
+          "tr": "App Store'da aç",
+          "en": "Open in App Store",
+          "de": "Im App Store öffnen",
+          "ru": "Открыть в App Store",
+          "zh": "在 App Store 中打开",
+          "es": "Abrir en App Store",
+          "hi": "App Store में खोलें",
+          "ar": "افتح في App Store",
+          "pt": "Abrir na App Store",
+          "fr": "Ouvrir dans l'App Store",
+          "ja": "App Storeで開く",
+          "it": "Apri su App Store",
+          "nl": "Openen in App Store",
+          "ko": "App Store에서 열기"
+        }
+      },
+      "android": {
+        "active": true,
+        "link": "https://play.google.com/store/apps/details?id=com.haruncinbirt.qsms",
+        "title": {
+          "tr": "Yeni uygulamayı dene",
+          "en": "Try our new app",
+          "de": "Probiere unsere neue App",
+          "ru": "Попробуйте новое приложение",
+          "zh": "试试我们的新应用",
+          "es": "Prueba nuestra nueva app",
+          "hi": "हमारा नया ऐप आज़माएं",
+          "ar": "جرّب تطبيقنا الجديد",
+          "pt": "Experimente nosso novo app",
+          "fr": "Essayez notre nouvelle app",
+          "ja": "新しいアプリを試す",
+          "it": "Prova la nostra nuova app",
+          "nl": "Probeer onze nieuwe app",
+          "ko": "새 앱을 사용해 보세요"
+        },
+        "description": {
+          "tr": "Android için özel teklif — hemen indir.",
+          "en": "Special offer for Android — download now.",
+          "de": "Sonderangebot für Android — jetzt herunterladen.",
+          "ru": "Специальное предложение для Android — скачайте сейчас.",
+          "zh": "Android 专属优惠 — 立即下载。",
+          "es": "Oferta especial para Android — descarga ahora.",
+          "hi": "Android के लिए विशेष ऑफ़र — अभी डाउनलोड करें।",
+          "ar": "عرض خاص لـ Android — حمّل الآن.",
+          "pt": "Oferta especial para Android — baixe agora.",
+          "fr": "Offre spéciale Android — téléchargez maintenant.",
+          "ja": "Android限定オファー — 今すぐダウンロード。",
+          "it": "Offerta speciale per Android — scarica ora.",
+          "nl": "Speciale aanbieding voor Android — download nu.",
+          "ko": "Android 전용 혜택 — 지금 다운로드하세요."
+        },
+        "button_text": {
+          "tr": "Play Store'da aç",
+          "en": "Open in Play Store",
+          "de": "Im Play Store öffnen",
+          "ru": "Открыть в Play Store",
+          "zh": "在 Play Store 中打开",
+          "es": "Abrir en Play Store",
+          "hi": "Play Store में खोलें",
+          "ar": "افتح في Play Store",
+          "pt": "Abrir na Play Store",
+          "fr": "Ouvrir dans le Play Store",
+          "ja": "Play Storeで開く",
+          "it": "Apri su Play Store",
+          "nl": "Openen in Play Store",
+          "ko": "Play Store에서 열기"
+        }
+      }
+    },
+    "offer_modal": {
+      "active": true,
+      "product_id": "credits_140",
+      "offer_credits": 50,
+      "countdown_hours": 2,
+      "max_shows_per_day": 5,
+      "show_delay_ms": 3000
+    }
+  }
